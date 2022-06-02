@@ -26,11 +26,8 @@
 - 😍 Total Profile Visits   <img src="https://komarev.com/ghpvc/?username=devprashantt&label=Profile%20views&color=green&style=flat" alt="devprashantt" />   
 
 ## Social Handles
-  
-<a href="https://twitter.com/devprashantt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devprashantt" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/devprashantt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devprashantt" height="30" width="40" /></a>
-<a href="https://instagram.com/king11prashant11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="king11prashant11" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/c/sneakypeeks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sneakypeeks" height="30" width="40" /></a>
+
+ [<img src="https://img.icons8.com/nolan/240/github.png" alt='github' height='32'>](https://github.com/devprashantt) [<img src="https://img.icons8.com/nolan/240/instagram-new.png" alt='instagram' height='32'>](https://www.instagram.com/prashantt_kumarr_/) [<img src="https://img.icons8.com/nolan/240/linkedin.png" alt='linkedin' height='32'>](https://www.linkedin.com/in/prashanttkumarr/) [<img src="https://img.icons8.com/nolan/240/chrome.png" alt='twitter' height='32'>](https://sites.google.com/view/bloodfank/nature) [<img src="https://img.icons8.com/nolan/240/program.png" alt='twitter' height='32'>](https://leetcode.com/devprashantt/)
   
 ## Designing ( UI & UX )
   
@@ -39,7 +36,7 @@
 
 ## Coding
   
-<a href="https://www.codechef.com/users/devprashantt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="devprashantt" height="30" width="40" /></a> <a href="https://www.hackerrank.com/king11prashant11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="king11prashant11" height="30" width="40" /></a>  <a href="https://www.leetcode.com/devprashantt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="devprashantt" height="30" width="40" /></a>   <a href="https://www.hackerearth.com/king11prashant11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="king11prashant11" height="30" width="40" /></a>  <a href="https://auth.geeksforgeeks.org/user/king1prashant1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="king1prashant1" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/devprashantt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="devprashantt" height="30" width="40" /></a> <a href="https://www.hackerrank.com/king1prashant1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="king11prashant11" height="30" width="40" /></a>  <a href="https://www.leetcode.com/devprashantt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="devprashantt" height="30" width="40" /></a>   <a href="https://www.hackerearth.com/king11prashant11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="king11prashant11" height="30" width="40" /></a>  <a href="https://auth.geeksforgeeks.org/user/king1prashant1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="king1prashant1" height="30" width="40" /></a>
 
 ## Language
 
@@ -59,7 +56,7 @@
 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 
-#### My Web Projects
+   #### My Web Projects
 
   <a href = "https://sneakypeeks.my.canva.site/prashant">Portfolio Website</a>
 
