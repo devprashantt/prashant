@@ -59,6 +59,8 @@
   <a href = "#">Task Manager</a>
   
   <a href = "#">Messanger App</a>
+  
+  <a href ="https://github.com/SneakyPeeks/LiveasyProject">Liveasy Project</a>
 
 ## Web Development
 
