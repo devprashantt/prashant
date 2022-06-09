@@ -3,7 +3,7 @@
 
 <br>
 
-<img align="right" height="400" width="400" alt="" src="https://github.com/devprashantt/PortFolio/blob/master/assets/illustartion/illustration%20(1).png" />
+<img align="right" height="200" width="325" alt="" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" />
 
 - 🔭 I’m currently working on [Metaverse](https://github.com/devprashantt/WebDevelopment)
 
