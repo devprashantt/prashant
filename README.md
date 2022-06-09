@@ -81,6 +81,8 @@
   <a href = "https://sneakypeeks.github.io/GamingWebsite">Gamming Website</a>
 
   <a href = "https://sneakypeeks.my.canva.site/familycastle">Family Castle</a>
+  
+  <a href = "https://sneakypeeks.github.io/LandingPage/">Landing Page</a>
  
 ### Backend Developemnt
 
