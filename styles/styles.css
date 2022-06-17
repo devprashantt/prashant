@@ -288,6 +288,7 @@ section {
 .about-container .left-about p {
   line-height: 2rem;
   padding: 1rem;
+  padding-bottom: 2rem !important;
   color: var(--color-grey-1);
 }
 
