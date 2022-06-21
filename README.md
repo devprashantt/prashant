@@ -1,6 +1,6 @@
 # PortfolioWebsite
 
-https://devprashantt.github.io/PortfolioWebsite/
+https://devprashantt.github.io/prashant/
 
 <h1 align="center">Hi 👋, I'm Prashant Kumar Singh</h1>
 <h3 align="center">Learning Coding Since January 2022</h3>
