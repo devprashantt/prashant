@@ -590,9 +590,10 @@ section {
   padding-bottom: 1rem;
 }
 
+/* contacts */
 .contact-content-con {
   display: flex;
-  padding-top: 3.5rem;
+  padding-top: 2rem;
 }
 
 .contact-content-con .left-contact {
@@ -782,6 +783,10 @@ section {
   font-weight: 800;
   font-size: 6.3rem;
 }
+
+/* .container {
+  padding-top: 4rem !important;
+} */
 
 .about-container .left-about p {
   padding-left: 0;
