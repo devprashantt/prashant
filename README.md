@@ -1,5 +1,7 @@
 # PortfolioWebsite
 
+https://lovenitro.me/
+
 https://devprashantt.github.io/prashant/
 
 <h1 align="center">Hi 👋, I'm Prashant Kumar Singh</h1>
@@ -59,9 +61,37 @@ https://devprashantt.github.io/prashant/
 
  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
  
+## Projects
+
+<a href="https://lovenitro.me/">MyPortfolio</a>
+
+<a href="https://sneakypeeks.my.canva.site/prashant">PrashantPortfolio</a>
+
+<a href="https://devprashantt.github.io/MediaOryx/">MediaOryx</a>
+
+<a href="https://sneakypeeks.my.canva.site/familycastle">FamilyCastle</a>
+
+<a href="https://sneakypeeks.github.io/LandingPage/">LandingPage</a>
+
+<a href="https://sneakypeeks.github.io/GamingWebsite/">GamingWebsite</a>
+
+<a href="https://devprashantt.github.io/TinDog-Website/">TinDog</a>
+
+<a href="https://devprashantt.github.io/Simon-Game/">SimonGame</a>
+
+<a href="https://devprashantt.github.io/Dicee-Game/">DiceeGame</a>
+
 ### Backend Developemnt
 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+
+## Projects
+
+<a href="https://warm-savannah-55928.herokuapp.com/">Daily Journal</a>
+
+<a href="https://enigmatic-gorge-53424.herokuapp.com/">To Doe</a>
+
+<a href="https://shrouded-wildwood-16310.herokuapp.com/">NewsLetter</a>
 
 ## Software Skills
 
