@@ -63,7 +63,9 @@ https://prashant-kumar.herokuapp.com/
  
 ## Frontend Projects
 
-<a href="https://lovenitro.me/">MyPortfolio</a>
+<a href="https://devprashantt.github.io/essence/">Essence</a>
+
+<a href="https://devprashantt.github.io/oryxProject/">OryxProject</a>
 
 <a href="https://sneakypeeks.my.canva.site/prashant">PrashantPortfolio</a>
 
