@@ -1,10 +1,13 @@
-import React, { useState, useEffect } from 'react';
-import { HiChevronLeft, HiChevronRight } from 'react-icons/hi';
-import { motion } from 'framer-motion';
+/* eslint-disable comma-dangle */
+/* eslint-disable no-unused-vars */
+/* eslint-disable quotes */
+import React, { useState, useEffect } from "react";
+import { HiChevronLeft, HiChevronRight } from "react-icons/hi";
+import { motion } from "framer-motion";
 
-import { AppWrap, MotionWrap } from '../../wrapper';
-import { urlFor, client } from '../../client';
-import './Testimonial.scss';
+import { AppWrap, MotionWrap } from "../../wrapper";
+import { urlFor, client } from "../../client";
+import "./Testimonial.scss";
 
 const Testimonial = () => {
   const [currentIndex, setCurrentIndex] = useState(0);
@@ -30,7 +33,7 @@ const Testimonial = () => {
 
   return (
     <>
-      {testimonials.length && (
+      {/* {testimonials.length && (
         <>
           <div className="app__testimonial-item app__flex">
             <img src={urlFor(testimonials[currentIndex].imgurl)} alt={testimonials[currentIndex].name} />
@@ -53,13 +56,13 @@ const Testimonial = () => {
             </div>
           </div>
         </>
-      )}
+      )} */}
 
       <div className="app__testimonial-brands app__flex">
         {brands.map((brand) => (
           <motion.div
             whileInView={{ opacity: [0, 1] }}
-            transition={{ duration: 0.5, type: 'tween' }}
+            transition={{ duration: 0.5, type: "tween" }}
             key={brand._id}
           >
             <img src={urlFor(brand.imgUrl)} alt={brand.name} />
@@ -71,7 +74,7 @@ const Testimonial = () => {
 };
 
 export default AppWrap(
-  MotionWrap(Testimonial, 'app__testimonial'),
-  'testimonial',
-  'app__primarybg',
+  MotionWrap(Testimonial, "app__testimonial"),
+  "testimonial",
+  "app__primarybg"
 );
