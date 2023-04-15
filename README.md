@@ -29,7 +29,7 @@
 
 ## 📱 Get in Touch
 
-- LinkedIn: linkedin.com/in/devprashantt
+- LinkedIn: https://www.linkedin.com/in/devprashantt/
 - Email: officialprashanttt@gmail.com
 
 Feel free to contact me if you have any questions or would like to collaborate on a project. Thanks for visiting my profile!
