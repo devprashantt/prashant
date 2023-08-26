@@ -1,6 +1,8 @@
-import React from 'react';
-import { BsTwitter, BsGithub } from 'react-icons/bs';
-import { FaLinkedin } from 'react-icons/fa';
+/* eslint-disable quotes */
+
+import React from "react";
+import { BsTwitter, BsGithub } from "react-icons/bs";
+import { FaLinkedin, FaBehance } from "react-icons/fa";
 
 const SocialMedia = () => (
   <div className="app__social">
@@ -17,6 +19,11 @@ const SocialMedia = () => (
     <a href="https://github.com/devprashantt">
       <div>
         <BsGithub />
+      </div>
+    </a>
+    <a href="https://www.behance.net/prashantworks">
+      <div>
+        <FaBehance />
       </div>
     </a>
   </div>
