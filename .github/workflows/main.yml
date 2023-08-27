@@ -3,7 +3,7 @@ name: Frontend Deployment to Netlify
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   build_and_deploy_frontend:
