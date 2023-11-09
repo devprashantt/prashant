@@ -7,6 +7,18 @@ import images from "../constants/images";
 
 const SocialMedia = () => (
   <div className="app__social">
+    <a href="https://peerlist.io/prashantkumar">
+      <div>
+        <img
+          src={images.peerlist}
+          alt="peerlist"
+          style={{
+            width: "20px",
+            height: "20px",
+          }}
+        />
+      </div>
+    </a>
     <a href="https://twitter.com/devprashantt">
       <div>
         <BsTwitter />
@@ -25,18 +37,6 @@ const SocialMedia = () => (
     <a href="https://dribbble.com/prashantdesigns">
       <div>
         <FaDribbble />
-      </div>
-    </a>
-    <a href="https://peerlist.io/prashantkumar">
-      <div>
-        <img
-          src={images.peerlist}
-          alt="peerlist"
-          style={{
-            width: "20px",
-            height: "20px",
-          }}
-        />
       </div>
     </a>
   </div>
