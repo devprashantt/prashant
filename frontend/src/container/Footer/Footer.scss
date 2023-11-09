@@ -11,9 +11,10 @@
 .app__footer-cards {
   width: 60%;
   display: flex;
-  justify-content: space-evenly;
+  justify-content: center;
   align-items: center;
   flex-wrap: wrap;
+  gap: 1.6rem;
   margin: 4em 2rem 2rem;
 
   .app__footer-card {
