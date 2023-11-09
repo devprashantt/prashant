@@ -136,6 +136,11 @@
   position: relative;
   flex-direction: column;
 
+  p {
+    text-transform: capitalize;
+    text-align: center;
+  }
+
   h4 {
     margin-top: 1rem;
     line-height: 1.5;

@@ -2,7 +2,8 @@
 
 import React from "react";
 import { BsTwitter, BsGithub } from "react-icons/bs";
-import { FaLinkedin, FaBehance } from "react-icons/fa";
+import { FaLinkedin, FaDribbble } from "react-icons/fa";
+import images from "../constants/images";
 
 const SocialMedia = () => (
   <div className="app__social">
@@ -21,9 +22,21 @@ const SocialMedia = () => (
         <BsGithub />
       </div>
     </a>
-    <a href="https://www.behance.net/prashantworks">
+    <a href="https://dribbble.com/prashantdesigns">
       <div>
-        <FaBehance />
+        <FaDribbble />
+      </div>
+    </a>
+    <a href="https://peerlist.io/prashantkumar">
+      <div>
+        <img
+          src={images.peerlist}
+          alt="peerlist"
+          style={{
+            width: "20px",
+            height: "20px",
+          }}
+        />
       </div>
     </a>
   </div>

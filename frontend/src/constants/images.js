@@ -1,11 +1,14 @@
-import email from '../assets/email.png';
-import mobile from '../assets/mobile.png';
-import figma from '../assets/figma.png';
-import flutter from '../assets/flutter.png';
-import react from '../assets/react.png';
+/* eslint-disable quotes */
 
-import profile from '../assets/profile.png';
-import circle from '../assets/circle.svg';
+import email from "../assets/email.png";
+import mobile from "../assets/mobile.png";
+import figma from "../assets/figma.png";
+import flutter from "../assets/flutter.png";
+import react from "../assets/react.png";
+
+import profile from "../assets/profile.png";
+import circle from "../assets/circle.svg";
+import peerlist from "../assets/peerlist.svg";
 
 export default {
   figma,
@@ -15,4 +18,5 @@ export default {
   mobile,
   profile,
   circle,
+  peerlist,
 };
